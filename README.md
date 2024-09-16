@@ -2,8 +2,6 @@
 
 This project focuses on developing a lightweight and accurate model for identifying tomato leaf diseases from images. Early disease detection is crucial for effective crop management and minimizing yield losses.
 
-## Key Features
-
 * **Lightweight Model:** The model is designed to be efficient and deployable across various platforms, including servers, web browsers, and edge devices.
 * **High Accuracy:** Leverages transfer learning with EfficientNetB0 and data augmentation to achieve robust performance.
 * **Diverse Dataset:** Trained on a dataset containing over 20,000 images, covering 10 disease classes and healthy leaves.
