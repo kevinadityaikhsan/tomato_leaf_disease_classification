@@ -69,4 +69,3 @@ For detailed code examples and explanations, please refer to the `deployement_te
 ## Acknowledgments
 
 * The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/ashishmotwani/tomato).
-```
