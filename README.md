@@ -9,25 +9,8 @@ This project focuses on developing a lightweight and accurate model for identify
 
 ## Technical Requirements
 
-* Python 3.10
-* TensorFlow 2.14.0 
 * TensorFlow Serving 2.8.0
 * Docker Desktop 4.34.2
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone [https://github.com/kevinadityaikhsan/tomato-leaf-disease-classification.git](https://github.com/kevinadityaikhsan/tomato-leaf-disease-classification.git)
-   cd tomato-leaf-disease-classification
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Deployment with Docker
 
