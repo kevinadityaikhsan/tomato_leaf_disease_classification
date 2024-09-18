@@ -4,7 +4,7 @@ This project focuses on developing a lightweight and accurate model for identify
 
 * **Lightweight Model:** The model is designed to be efficient and deployable across various platforms, including servers, web browsers, and edge devices.
 * **High Accuracy:** Leverages transfer learning with EfficientNetB0 and data augmentation to achieve robust performance. The model exhibits robust performance, with a validation accuracy of 97.91% and a test accuracy of 97.43%, demonstrating effective generalization to unseen data.
-* **Diverse Dataset:** Trained on a dataset containing over 20,000 images, covering 10 disease classes and healthy leaves.
+* **Diverse Dataset:** Trained on a dataset containing over 10,000 images, covering 10 disease classes and healthy leaves.
 * **Docker Deployment:** Provides a streamlined way to deploy the SavedModel using TensorFlow Serving within a Docker container for real-time predictions.
 
 ## Technical Requirements
