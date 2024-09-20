@@ -16,13 +16,13 @@ This project focuses on developing a lightweight and accurate model for identify
 
 1. **Export the Trained Model:** Ensure you have your trained Keras model saved in the SavedModel format (as done in the notebook).
 
-2. **Run the Docker Container:**
+2. **Run the Docker Container**
 
    ```bash
    docker run -it -v tomato-leaf-disease-classification\models:/models -p 8501:8501 --entrypoint /bin/bash tensorflow/serving
    ```
 
-3. **Start Model Inside the Container, s:**
+3. **Start Model Inside the Container**
 
    ```bash
    tensorflow_model_server --rest_api_port=8501 --model_name=saved_model --model_base_path=/models/saved_model/
