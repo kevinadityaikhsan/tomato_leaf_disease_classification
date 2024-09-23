@@ -32,7 +32,7 @@ This project focuses on developing a lightweight and accurate model for identify
 
 This project provides a deployed model for tomato leaf disease classification. You can use it to:
 
-1. **Classify a single image:** Preprocess your image and send it to the TensorFlow Serving endpoint for prediction.
+1. **Classify a single image:** Preprocess your image and send it to the endpoint for prediction.
 2. **Classify multiple images in a batch:** Preprocess your images and send them together to the endpoint for batch prediction.
 
 For detailed code examples and explanations, please refer to the `deployement_testing.ipynb` notebook. 
