@@ -1,4 +1,4 @@
-# Tomato Leaf Disease Classification
+# Tomato Leaf Disease Image Classification
 
 This project focuses on developing a lightweight and accurate model for identifying tomato leaf diseases from images. Early disease detection is crucial for effective crop management and minimizing yield losses.
 
